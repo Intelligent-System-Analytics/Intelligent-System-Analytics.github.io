@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Git-Intro-Module
+title: Git
 permalink: /git/
 ---
 
