@@ -1,4 +1,5 @@
-# Budget Monitoring in Azure CloudLab - CSN400
+# Budget
+## Budget Monitoring in Azure CloudLab - CSN400
 
 Considering 15% of your mark is linked to adherence to proper allocation and usage of your Azure budget, it is crucial to keep monitoring your budget utilization in the CloudLab environment allocated to you.
 
